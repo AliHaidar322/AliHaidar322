@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Haidar! 👋
 
-![Ali Haidar]([https://your-image-url.com](https://imgur.com/a/aB5xzJ4))
+![Ali Haidar]([https://imgur.com/a/aB5xzJ4])
 
 🚀 **Full-Stack Developer | Ruby on Rails | React | PostgreSQL | AWS**
 
