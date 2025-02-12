@@ -1,5 +1,7 @@
 ### Hi there, I'm Ali Haidar! 👋
 
+![Ali Haidar](https://your-image-url.com)
+
 🚀 **Full-Stack Developer | Ruby on Rails | React | PostgreSQL | AWS**
 
 I'm a passionate **full-stack software engineer** specializing in building scalable web applications with **Ruby on Rails, React, and PostgreSQL**. I love solving complex problems, optimizing performance, and continuously learning new technologies.
@@ -23,7 +25,7 @@ I'm a passionate **full-stack software engineer** specializing in building scala
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-haidar-453ba0267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-haidar-453ba0267) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/AliHaidar322)
 
 💡 Always eager to collaborate on exciting projects and explore new opportunities!
