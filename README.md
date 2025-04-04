@@ -2,7 +2,7 @@
 
 ![Ali Haidar]([https://imgur.com/gallery/github-image-aB5xzJ4])
 
-🚀 **Full-Stack Developer | Ruby on Rails | React | PostgreSQL | AWS**
+🚀 **Full-Stack Developer | Ruby on Rails | React | PostgreSQL | Node Js | AWS**
 
 I'm a passionate **full-stack software engineer** specializing in building scalable web applications with **Ruby on Rails, React, and PostgreSQL**. I love solving complex problems, optimizing performance, and continuously learning new technologies.
 
